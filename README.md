@@ -1,4 +1,4 @@
-<h1 align="center">Uhumagho David </h1>
+<h1 align="center"> David Uhumagho</h1>
 <p align="center"><strong>Frontend Engineer • React • Hackathon Lover • Learning Networking/Sec</strong></p>
 
 <p align="center">
