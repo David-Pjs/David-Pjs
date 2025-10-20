@@ -11,9 +11,10 @@
 ---
 
 ### ✨ What I’m building
-- **StockPoint** — offline-friendly sales & inventory for SMEs (React + TS + Tailwind; PWA/Electron)  
-- **Benkyoo** — student productivity desktop app (Electron + React)  
-- **Echoes of Sacrifice** — 2D hackathon platformer (HTML/JS)
+- **StockPoint** — offline-friendly sales & inventory for SMEs (commercial).  
+  <sub>Code private — reach out for a demo.</sub>  
+- **Benkyoo** — desktop study/productivity app (Electron + React)  
+- **LiteLab** — small utility experiments & UI prototypes (web)
 
 ---
 
@@ -50,11 +51,58 @@ Early stage—mainly networking basics to support cloud interests. Practicing be
 
 ---
 
-### 🚀 Featured Projects
-- **StockPoint** — PWA/Electron for SMEs • [Repo](#) • [Live](#)  
-- **Benkyoo** — Electron study manager • [Repo](#) • [Docs](#)  
-- **Echoes of Sacrifice** — Hackathon game • [Repo](#) • [Play](#)  
-- **Three.js Scenes** — 3D shorts • [Repo](#) • [Gallery](#)
+## 🚀 Featured Projects
+<!-- card-style layout using HTML for a cleaner look on GitHub -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Benkyoo — Study Manager</h3>
+      <sub>Electron + React • Notes, focus timers, TTS, PDF</sub><br/>
+      <img src="https://img.shields.io/badge/Electron-App-2b2e3a?logo=electron" />
+      <img src="https://img.shields.io/badge/React-UI-61DAFB?logo=react&logoColor=000" />
+      <br/><br/>
+      <a href="https://github.com/David-Pjs/Benkyoo"><b>Repo</b></a> •
+      <a href="https://your-demo-link.example"><b>Docs/Release</b></a>
+      <br/><br/>
+      <em>Lightweight, student-friendly desktop app to keep schoolwork tidy.</em>
+    </td>
+    <td width="50%" valign="top">
+      <h3>LiteLab — Mini Tools & UI</h3>
+      <sub>Vite • React/TS • Tailwind • Supabase (when needed)</sub><br/>
+      <img src="https://img.shields.io/badge/Vite-Fast-646CFF?logo=vite&logoColor=fff" />
+      <img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?logo=tailwindcss&logoColor=fff" />
+      <br/><br/>
+      <a href="https://github.com/David-Pjs/litelab"><b>Repo</b></a> •
+      <a href="https://your-livelab.example"><b>Live</b></a>
+      <br/><br/>
+      <em>A playground for tiny ideas, utilities, and component tests.</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Three.js Scenes</h3>
+      <sub>Short, relatable 3D visuals for TikTok</sub><br/>
+      <img src="https://img.shields.io/badge/three.js-3D-000000?logo=threedotjs&logoColor=fff" />
+      <br/><br/>
+      <a href="https://github.com/David-Pjs/threejs-lab"><b>Repo</b></a> •
+      <a href="https://your-portfolio.example/3js"><b>Gallery</b></a>
+      <br/><br/>
+      <em>Small scenes focused on story + motion.</em>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Echoes of Sacrifice</h3>
+      <sub>Hackathon 2D platformer (HTML/JS)</sub><br/>
+      <img src="https://img.shields.io/badge/Game-HTML5-F16529?logo=html5&logoColor=fff" />
+      <br/><br/>
+      <a href="https://github.com/David-Pjs/echoes-of-sacrifice"><b>Repo</b></a> •
+      <a href="https://your-playable-demo.example"><b>Play</b></a>
+      <br/><br/>
+      <em>Built in a sprint; simple mechanics, fun polish.</em>
+    </td>
+  </tr>
+</table>
+
+> **StockPoint** is commercial; if you’re interested, <a href="mailto:you@example.com"><b>request a private demo</b></a>.
 
 ---
 
