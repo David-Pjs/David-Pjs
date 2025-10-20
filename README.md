@@ -1,5 +1,5 @@
-<h1 align="center">Uhumagho David (David-Pjs)</h1>
-<p align="center"><strong>Frontend Engineer • React • Hackathons</strong></p>
+<h1 align="center">Uhumagho David </h1>
+<p align="center"><strong>Frontend Engineer • Hackathons</strong></p>
 
 <h3 align="center">Hey, I'm David 👋</h3>
 <p align="center">
@@ -8,9 +8,8 @@
 
 <p align="center">
   <a href="https://github.com/David-Pjs?tab=repositories"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@David--Pjs-181717?logo=github"></a>
-  <a href="https://www.linkedin.com/in/xxxxxxxx"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/xxxxxxxx"><img alt="X" src="https://img.shields.io/badge/X-Follow-111111?logo=x&logoColor=white"></a>
-  <a href="mailto:you@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hi!-EA4335?logo=gmail&logoColor=white"></a>
+  <a href="https://[www.linkedin.com/in/xxxxxxxx](http://www.linkedin.com/in/david-uhumagho-89368033a)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="uhumaghodavid@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hi!-EA4335?logo=gmail&logoColor=white"></a>
 </p>
 
 ---
