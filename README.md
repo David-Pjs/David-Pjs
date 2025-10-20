@@ -17,25 +17,28 @@
 
 ---
 
-### ⚙️ Tech Stack
+### ⚙️ Tech Stack (most used)
 **Frontend:** React · TypeScript · Tailwind · Electron  
-**Backend (learning):** Node · Express · PostgreSQL · Firebase  
-**Mobile:** Kotlin (Android)  
-**Tools:** Git · Vite · pnpm
+**Backend/DB:** **Supabase** (Auth · DB · Storage) · Node · Express  
+**Mobile:** **Flutter** · **React Native**  
+**Tools:** Git · Vite · pnpm · (a bit of) Docker
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,electron,nodejs,express,supabase,flutter,git,vite,docker" alt="skills" />
+</p>
 
 ---
 
 ## 🧯 Cybersecurity & Networking (learning)
-I’m early in my journey—mainly exploring networking basics and how they connect to cloud.  
-Right now I’m practicing with **nmap** and **Wireshark** at a beginner level and revising **Network+** topics.
+Early stage—mainly networking basics to support cloud interests. Practicing beginner-level **nmap** and **Wireshark**, revising **Network+** topics.
 
-- Interests: subnets/VLANs, routing, NAT, ACLs, DHCP/DNS
-- Tools I’m touching: `nmap`, `Wireshark`, Cisco **Packet Tracer**
-- Goal: keep small, clear labs and notes while I learn (no hype)
+- Interests: subnets/VLANs, routing, NAT, ACLs, DHCP/DNS  
+- Tools: `nmap`, `Wireshark`, Cisco **Packet Tracer**  
+- Goal: keep small, clear labs and notes (no hype)
 
 ### 🧪 Cisco Packet Tracer Labs (N+)
 > Repo folder: **[`/labs/packet-tracer`](#)** (replace with your repo/folder link).  
-> Each lab will have a `.pkt` file + a short README with steps and what I learned.
+> Each lab will have a `.pkt` + a short README (steps + what I learned).
 
 | Lab | Focus | File |
 |---|---|---|
