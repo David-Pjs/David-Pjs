@@ -1,7 +1,5 @@
-<!-- Hero -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:22D3EE,100:16A34A&height=180&text=Uhumagho%20David%20(aka%20David-Pjs)&fontAlignY=35&desc=Frontend%20Engineer%20•%20React%20•%20Hackathons&descAlignY=55&fontColor=ffffff" alt="banner" />
-</p>
+<h1 align="center">Uhumagho David (David-Pjs)</h1>
+<p align="center"><strong>Frontend Engineer • React • Hackathons</strong></p>
 
 <h3 align="center">Hey, I'm David 👋</h3>
 <p align="center">
