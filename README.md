@@ -10,7 +10,7 @@
 ---
 
 ### ✨ What I’m building
-- **StockPoint** — offline-friendly sales & inventory for SMEs (React + TS + Tailwind; PWA/Electron)
+- **StockPoint** — offline-friendly sales & inventory for SMEs (commercial)
 - **Benkyoo** — student productivity desktop app (Electron + React)  
 - **Echoes of Sacrifice** — 2D hackathon platformer (HTML/JS)
 
