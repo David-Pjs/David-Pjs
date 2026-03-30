@@ -1,44 +1,55 @@
-<h1 align="center"> David Uhumagho</h1>
-<p align="center"><strong>Frontend Engineer • React • Hackathon Lover • Learning Networking/Sec</strong></p>
+<h1 align="center">David Uhumagho</h1>
+<p align="center"><strong>AI Engineer &nbsp;·&nbsp; Autonomous Agents &nbsp;·&nbsp; LLM Products &nbsp;·&nbsp; Lagos, Nigeria</strong></p>
 
 <p align="center">
-  <a href="https://github.com/David-Pjs?tab=repositories"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@David--Pjs-181717?logo=github"></a>
-  <a href="https://[www.linkedin.com/in/xxxxxxxx](http://www.linkedin.com/in/david-uhumagho-89368033a)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="uhumaghodavid@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hi!-EA4335?logo=gmail&logoColor=white"></a>
+  <a href="https://david-uhumagho-portfolio.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-david--uhumagho-2fe8a8?style=flat-square&logo=vercel&logoColor=white&labelColor=0a0e1a"></a>
+  <a href="https://www.linkedin.com/in/david-uhumagho-89368033a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:uhumaghodavid@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-uhumaghodavid@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-### ✨ What I’m building
-- **StockPoint** — offline-friendly sales & inventory for SMEs (commercial)
-- **Benkyoo** — student productivity desktop app (Electron + React)  
-- **Echoes of Sacrifice** — 2D hackathon platformer (HTML/JS)
+I build autonomous AI agents and LLM-powered products end to end. From Claude API to production React UI. Real things that work for real people.
+
+**4x hackathon winner. 2x first place.**
 
 ---
 
-### ⚙️ Tech Stack (most used)
-**Frontend:** React · TypeScript · Tailwind · Electron  
-**Backend/DB:** **Supabase** (Auth · DB · Storage) · Node · Express  
-**Mobile:** **Flutter** · **React Native**  
-**Tools:** Git · Vite · pnpm · (a bit of) Docker
+### Featured Projects
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,electron,nodejs,express,supabase,flutter,git,vite,docker" alt="skills" />
-</p>
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [NEXUS Agency](https://github.com/David-Pjs/nexus-agency) | 8 AI agents running 24/7 from your phone via Telegram. Research, crypto, calendar, code generation. | Python · Multi-Agent · Groq LLM · Playwright |
+| [Fiber-402](https://github.com/David-Pjs/fiber402) | Autonomous AI agent with its own crypto wallet. Pays for API access via HTTP 402 on CKB Fiber Network. No accounts, no subscriptions. | TypeScript · Claude API · CKB Fiber · Next.js 15 |
+| [EduMind](https://github.com/David-Pjs/EduMind) | Multimodal AI tutor for 300M underserved students. Text, voice, and photo input. Auto-generated diagrams. WAEC/UTME practice quizzes. 1st place at Bincom Hackathon 5.0. | React · Groq LLM · Vision API · Web Speech API · PWA |
+| [MedSight AI](https://github.com/David-Pjs/medsight-ai) | Clinical platform that converts raw doctor notes into structured summaries and adverse drug reaction docs. Real-time sync across doctors, patients, and pharmacies. | React · Claude API · Node.js · TypeScript |
 
 ---
 
-## 🧯 Cybersecurity & Networking (learning)
-Early stage—mainly networking basics to support cloud interests. Practicing beginner-level **nmap** and **Wireshark**, revising **Network+** topics.
+### Hackathon Record
 
-- Interests: subnets/VLANs, routing, NAT, ACLs, DHCP/DNS  
-- Tools: `nmap`, `Wireshark`, Cisco **Packet Tracer**  
-- Goal: keep building consistently
+| Place | Event | Project |
+|-------|-------|---------|
+| 🏆 1st | Bincom Hackathon 5.0 | EduMind |
+| 🏆 1st | Hack Club Campfire Lagos | Dig or Die |
+| 🥈 2nd | Hack Club Daydream | Echoes of Sacrifice |
+| 🥉 3rd | AHEAD Hackathon | MedSight AI |
 
+---
 
-### 📊 GitHub at a glance
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=David-Pjs&show_icons=true&hide_title=true&rank_icon=github" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Pjs&layout=compact&langs_count=8" height="150" />
+### Stack
+
+**AI / LLM:** Claude API · Groq LLM · Multi-Agent Systems · Prompt Engineering · Vision API · Web Speech API
+
+**Frontend:** React 19 · Next.js 15 · TypeScript · Tailwind CSS · Framer Motion
+
+**Backend:** Node.js · Python · PostgreSQL · Supabase · SQLite
+
+**Tools:** Playwright · Electron · CKB Fiber · Telegram Bot API
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=David-Pjs&show_icons=true&hide_title=true&rank_icon=github&theme=dark&bg_color=0a0e1a&border_color=ffffff15&icon_color=2fe8a8&text_color=94a3b8" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Pjs&layout=compact&langs_count=6&theme=dark&bg_color=0a0e1a&border_color=ffffff15&text_color=94a3b8" height="150" />
 </p>
-<p align="center"><i>Keeping it simple. Learn → lab → share.</i></p>
