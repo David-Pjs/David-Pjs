@@ -1,55 +1,50 @@
-<h1 align="center">David Uhumagho</h1>
-<p align="center"><strong>AI Engineer &nbsp;·&nbsp; Autonomous Agents &nbsp;·&nbsp; LLM Products &nbsp;·&nbsp; Lagos, Nigeria</strong></p>
+# David Uhumagho
 
-<p align="center">
-  <a href="https://david-uhumagho-portfolio.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-david--uhumagho-2fe8a8?style=flat-square&logo=vercel&logoColor=white&labelColor=0a0e1a"></a>
-  <a href="https://www.linkedin.com/in/david-uhumagho-89368033a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:uhumaghodavid@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-uhumaghodavid@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
-</p>
+**AI engineer · full-stack builder · open to remote**
 
----
+> Real problems. Shipped software. AI where it helps.
 
-I build autonomous AI agents and LLM-powered products end to end. From Claude API to production React UI. Real things that work for real people.
+Started with one shop. My mom's. The inventory tool. Then the record-keeping. Then more owners signing on. Every project since has worked the same way: one real user, one real problem, ship it before you over-think it.
 
-**4x hackathon winner. 2x first place.**
+[Portfolio](https://david-uhumagho-portfolio.vercel.app) · [Resume](https://david-uhumagho-portfolio.vercel.app/david-uhumagho-resume.pdf) · [Email](mailto:uhumaghodavid@gmail.com) · [LinkedIn](https://www.linkedin.com/in/david-uhumagho-89368033a) · [WhatsApp](https://wa.me/2349036365113)
 
 ---
 
-### Featured Projects
+### What I'm building
 
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [NEXUS Agency](https://github.com/David-Pjs/nexus-agency) | 8 AI agents running 24/7 from your phone via Telegram. Research, crypto, calendar, code generation. | Python · Multi-Agent · Groq LLM · Playwright |
-| [Fiber-402](https://github.com/David-Pjs/fiber402) | Autonomous AI agent with its own crypto wallet. Pays for API access via HTTP 402 on CKB Fiber Network. No accounts, no subscriptions. | TypeScript · Claude API · CKB Fiber · Next.js 15 |
-| [EduMind](https://github.com/David-Pjs/EduMind) | Multimodal AI tutor for 300M underserved students. Text, voice, and photo input. Auto-generated diagrams. WAEC/UTME practice quizzes. 1st place at Bincom Hackathon 5.0. | React · Groq LLM · Vision API · Web Speech API · PWA |
-| [MedSight AI](https://github.com/David-Pjs/medsight-ai) | Clinical platform that converts raw doctor notes into structured summaries and adverse drug reaction docs. Real-time sync across doctors, patients, and pharmacies. | React · Claude API · Node.js · TypeScript |
+| | Status | What it is | Stack |
+|---|---|---|---|
+| [**NEXUS Agency**](https://github.com/David-Pjs/nexus-agency) | active | 8 specialised AI agents, orchestrated through a single Telegram chat. | Python · multi-agent · Groq · Playwright |
+| [**StockPoint**](https://stockpoint.tech) | live in shops | Inventory and sales for SMEs. PWA installable from browser, TWA wrapper for Android. | React · Supabase · PostgreSQL · TWA |
+| [**EduMind**](https://aura-pro-pi.vercel.app) | 🏆 1st | Multimodal AI tutor for WAEC/UTME prep. Text, voice, photo input. | React · Groq · Vision · PWA |
+| [**Crave**](https://pryme-rho.vercel.app) | 🏆 1st | Meal recommendations with Africa's Talking SMS fallback for users without smartphones. | Next.js · Africa's Talking |
+| [**MedSight AI**](https://medsight-ai-demo-live.vercel.app) | 🥉 3rd | Clinical documentation prototype. Raw notes to structured summaries and ADR docs. | React · Claude API · Node |
+| [**CKB Quest**](https://ckb-quest.vercel.app) | live | Learn-to-earn onboarding for CKB developers. Testnet, wallet-connected, AI-assisted. | TypeScript · CKB |
+| [**Fiber-402**](https://github.com/David-Pjs/fiber402) | in progress | TypeScript SDK so CKB devs can drop Fiber Network payments into their APIs with one import. HTTP 402 + x402. | TypeScript · CKB Fiber |
 
----
+### Hackathon record
 
-### Hackathon Record
+5 entered. 5 podiums. 3 firsts. Never placed below 3rd.
 
-| Place | Event | Project |
-|-------|-------|---------|
-| 🏆 1st | Bincom Hackathon 5.0 | EduMind |
-| 🏆 1st | Hack Club Campfire Lagos | Dig or Die |
-| 🥈 2nd | Hack Club Daydream | Echoes of Sacrifice |
-| 🥉 3rd | AHEAD Hackathon | MedSight AI |
-
----
+| | Event | Project | Year |
+|---|---|---|---|
+| 🏆 1st | Bincom GenAI Hackathon | EduMind | 2026 |
+| 🏆 1st | Hospitality Hackathon | Crave | 2026 |
+| 🏆 1st | Hack Club Campfire Lagos | Dig or Die | 2026 |
+| 🥈 2nd | Hack Club Daydream | Echoes of Sacrifice | 2025 |
+| 🥉 3rd | AHEAD HealthTech Hackathon | MedSight AI | 2025 |
 
 ### Stack
 
-**AI / LLM:** Claude API · Groq LLM · Multi-Agent Systems · Prompt Engineering · Vision API · Web Speech API
+| | |
+|---|---|
+| **AI / LLM** | Claude API · Groq · multi-agent systems · prompt engineering · tool use · Vision API · Web Speech API |
+| **Frontend** | React 19 · Next.js 16 · TypeScript · Tailwind · Framer Motion · PWA |
+| **Backend** | Node.js · Python · PostgreSQL · Supabase · SQLite |
+| **Tools** | Playwright · Vercel · CKB Fiber · Telegram Bot API |
 
-**Frontend:** React 19 · Next.js 15 · TypeScript · Tailwind CSS · Framer Motion
+### Currently available
 
-**Backend:** Node.js · Python · PostgreSQL · Supabase · SQLite
+Open to AI engineering roles, freelance contracts, and hackathon teams. Send a role, project, or idea. I reply when I can.
 
-**Tools:** Playwright · Electron · CKB Fiber · Telegram Bot API
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=David-Pjs&show_icons=true&hide_title=true&rank_icon=github&theme=dark&bg_color=0a0e1a&border_color=ffffff15&icon_color=2fe8a8&text_color=94a3b8" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Pjs&layout=compact&langs_count=6&theme=dark&bg_color=0a0e1a&border_color=ffffff15&text_color=94a3b8" height="150" />
-</p>
+`uhumaghodavid@gmail.com` · [WhatsApp](https://wa.me/2349036365113) · [Portfolio](https://david-uhumagho-portfolio.vercel.app)
